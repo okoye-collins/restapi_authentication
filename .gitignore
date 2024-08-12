@@ -1,0 +1,9 @@
+*.pyc
+Pipfile.lock
+/media/
+/static/
+general.log
+.env
+db.sqlite3
+env
+venv
